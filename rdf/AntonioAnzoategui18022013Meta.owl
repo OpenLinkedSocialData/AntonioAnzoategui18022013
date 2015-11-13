@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://purl.org/socialparticipation/fb/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#AntonioAnzoategui18022013">
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AntonioAnzoategui18022013/master/rdf/AntonioAnzoategui18022013Translate.owl</po:rdfFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">AntonioAnzoategui</po:donatedBy>
+    <ns1:sid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">antonio.anzoateguifabbri</ns1:sid>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-11-13T03:26:54.648614</po:triplifiedIn>
+    <rdfs:label>Snapshot AntonioAnzoategui18022013</rdfs:label>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AntonioAnzoategui18022013/master/rdf/AntonioAnzoategui18022013Meta.owl</po:discorveryRDFFile>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AntonioAnzoategui18022013/master/base/AntonioAnzoategui18022013huge_100003608428288_2013_02_18_21_34_f74ca978ec921548c0b7caf3287f2335.gml.</po:originalFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AntonioAnzoategui18022013/master/rdf/AntonioAnzoategui18022013Translate.ttl</po:ttlFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Netvizz</po:acquiredThrough>
+    <ns1:uid rdf:datatype="http://www.w3.org/2001/XMLSchema#string">100003608428288</ns1:uid>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013-02-18T21:34</po:createdAt>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/AntonioAnzoategui18022013/master/rdf/AntonioAnzoategui18022013Meta.ttl</po:discoveryTTLFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The facebook friendship network from Antônio Anzoategui Fabbri</rdfs:comment>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/</po:availableAt>
+  </rdf:Description>
+</rdf:RDF>
